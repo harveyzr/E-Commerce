@@ -74,11 +74,11 @@ Type "npm start", or "NODE server.js" in the terminal which will start the serve
 https://drive.google.com/file/d/1wfW0fXbSRULouOC83Gg4O623_lb0WEfP/view
  
 ## Link to GetHub Website
-https://github.com/harveyzr/SVG-LOGO-MAKER
+https://github.com/harveyzr/E-Commerce
 
 
  ## Skills Used
 - MySQL and Sequelize packages to connect to a MySQL database. 
 - Sync Sequelize models to a MySQL database on the server.
-- 
+
 

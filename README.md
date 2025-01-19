@@ -73,7 +73,7 @@ Type "npm start", or "NODE server.js" in the terminal which will start the serve
  ## Link to recorded video
 https://drive.google.com/file/d/1wfW0fXbSRULouOC83Gg4O623_lb0WEfP/view
  
-## Link to GetHub Website
+## Link to GitHub Website
 https://github.com/harveyzr/E-Commerce
 
 
